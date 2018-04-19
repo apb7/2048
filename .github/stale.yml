@@ -8,8 +8,8 @@ daysUntilStale: 1
 daysUntilClose: false
 
 # Issues or Pull Requests with these labels will never be considered stale. Set to `[]` to disable
-exemptLabels:
-  - []
+#exemptLabels:
+#  - []
 
 # Label to use when marking as stale
 staleLabel: stale
